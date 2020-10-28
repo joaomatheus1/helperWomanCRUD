@@ -17,4 +17,8 @@ EXECUÇÃO:
 
 ![Woman 4](https://user-images.githubusercontent.com/72817491/97474762-35183880-192b-11eb-8895-d8168c9422ae.PNG)
 
-Ao ser executado, o programa automaticamente irá gerar o OCID, que será usado como um idêntificador para as consultas e exclusões.
+Como mostra acima, ao ser executado, o programa automaticamente irá gerar o OCID, que será usado como um idêntificador para as consultas e exclusões.
+
+![Woman 5](https://user-images.githubusercontent.com/72817491/97475352-e919c380-192b-11eb-99b1-a19a6fd1e81b.PNG)
+
+Como mostra acima, se marcar "Sigílo" na caixa de opções, o seu nome estará em sigílo e será enviado ao banco um valor nulo.
