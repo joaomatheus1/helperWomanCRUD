@@ -15,3 +15,6 @@ TELA DE EXCLUSÃO DE CADASTRO:
 
 EXECUÇÃO:
 
+![Woman 4](https://user-images.githubusercontent.com/72817491/97474762-35183880-192b-11eb-8895-d8168c9422ae.PNG)
+
+Ao ser executado, o programa automaticamente irá gerar o OCID, que será usado como um idêntificador para as consultas e exclusões.
