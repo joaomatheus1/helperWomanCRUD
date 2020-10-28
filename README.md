@@ -11,3 +11,7 @@ TELA PARA CONSULTAR CADASTROS:
 
 TELA DE EXCLUSÃO DE CADASTRO:
 
+![Woman 3](https://user-images.githubusercontent.com/72817491/97474297-bb804a80-192a-11eb-94b6-f567a3c2dd5c.PNG)
+
+EXECUÇÃO:
+
