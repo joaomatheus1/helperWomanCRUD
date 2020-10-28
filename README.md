@@ -7,3 +7,7 @@ TELA DE CADASTRO:
 
 TELA PARA CONSULTAR CADASTROS:
 
+![Woman 2](https://user-images.githubusercontent.com/72817491/97473970-588eb380-192a-11eb-9afc-9ffc6d7a2c02.PNG)
+
+TELA DE EXCLUSÃO DE CADASTRO:
+
