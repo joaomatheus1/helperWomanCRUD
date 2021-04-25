@@ -22,3 +22,5 @@ Como mostra acima, ao ser executado, o programa automaticamente irá gerar o OCI
 ![Woman 5](https://user-images.githubusercontent.com/72817491/97475352-e919c380-192b-11eb-99b1-a19a6fd1e81b.PNG)
 
 Como mostra acima, se marcar "Sigílo" na caixa de opções, o seu nome estará em sigílo e será enviado ao banco um valor nulo.
+
+PIPS: pip install PyQt5
