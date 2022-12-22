@@ -23,4 +23,5 @@ Como mostra acima, ao ser executado, o programa automaticamente irá gerar o OCI
 
 Como mostra acima, se marcar "Sigílo" na caixa de opções, o seu nome estará em sigílo e será enviado ao banco um valor nulo.
 
-PIPS: pip install PyQt5
+Guia de instalação: 
+1 - pip install PyQt5
